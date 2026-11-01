@@ -1,7 +1,7 @@
 {
-  "version": "1.5.3",
-  "url": "bundles/1.5.3.zip",
-  "sha256": "d46be63fac2f65ec911174d22726c7042cff15a2f77aa26c2662a01b09c6af26",
+  "version": "1.5.4",
+  "url": "bundles/1.5.4.zip",
+  "sha256": "e7f7f00769035d3ed94db75bfd7634dde0aaec5c5d2194501364ad8ed8f54210",
   "minNative": 6,
-  "published": "2026-10-24T09:28:34.854Z"
+  "published": "2026-11-01T14:31:53.473Z"
 }
